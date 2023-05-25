@@ -1,6 +1,5 @@
 # DoE Domain List
-This is a list of DoE domains obtained through active scanning.
-
+This is some list of DoE domains (March 2023).
 
 
 ## Examples
