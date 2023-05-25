@@ -1,2 +1,10 @@
 # DoE-Reachability
-This is the source code of the DoE service reachability measurement and the list of open DoE domains obtained by our active scanning.
+### block_check
+
+This is the source code of the DoE service reachability measurement.
+
+------
+
+### DoE_Domain
+
+This is the open DoE domain dataset.
