@@ -1,0 +1,14 @@
+dns.nextdns.io,
+dns.adguard.com,dns-query
+dns-unfiltered.adguard.com,query
+dns.google.com,dns-query
+dns-family.adguard.com,query
+dns.google,dns-query
+dns.nextdns.io,dns-query
+dns.nextdns.io,resolve
+dns-family.adguard.com,dns-query
+dns-unfiltered.adguard.com,dns-query
+dns.nextdns.io,query
+dns.adguard.com,query
+family.cloudflare-dns.com,dns-query
+dns.alidns.com,dns-query
