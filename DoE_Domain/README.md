@@ -1,10 +1,5 @@
 # DoE Domain List
-<<<<<<< HEAD
 This is some list of DoE domains.
-=======
-This is some list of DoE domains (March 2023).
->>>>>>> bd2c342ed569ebe0966f16cdfbb5341f849693ff
-
 
 ## Examples
 
